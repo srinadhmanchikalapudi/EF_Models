@@ -1,0 +1,14 @@
+C:\Users\Srina\source\repos\EF_Models\bin\Debug\net8.0\EF_Models.deps.json
+C:\Users\Srina\source\repos\EF_Models\bin\Debug\net8.0\EF_Models.runtimeconfig.json
+C:\Users\Srina\source\repos\EF_Models\bin\Debug\net8.0\EF_Models.dll
+C:\Users\Srina\source\repos\EF_Models\bin\Debug\net8.0\EF_Models.pdb
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.csproj.AssemblyReference.cache
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.AssemblyInfoInputs.cache
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.AssemblyInfo.cs
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.dll
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\refint\EF_Models.dll
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.pdb
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\EF_Models.genruntimeconfig.cache
+C:\Users\Srina\source\repos\EF_Models\obj\Debug\net8.0\ref\EF_Models.dll
